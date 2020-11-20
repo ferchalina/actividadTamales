@@ -1,0 +1,39 @@
+
+body{
+  font-family:Calibri (Cuerpo); background:#566573;}
+
+
+#background-head{
+  background:#F39C12;
+}
+.container{max-height:80%; max-width:60%;
+  }
+
+ul{
+  text-align:justify; font-size: 20px;}
+li{
+
+  padding: 5px;}
+
+h1 {
+  text-align:center;
+  color:#FFFFFF;
+}
+h2 {
+  color:#FFFFFF;
+}
+
+img{
+
+    width: 400px;
+}
+
+p {
+    width: 80%;
+    text-align:justify;
+}
+
+.centrado{
+  margin:10px auto;
+	display:block;
+    }
